@@ -12,7 +12,7 @@ Perfil en constante aprendizaje, con especial interés en backend, arquitectura 
 
 ---
 
-## 🚀 Tecnologías y herramientas
+## 🚀 Tecnologías
 
 **Lenguajes & Frameworks**
 - `PHP` - `Laravel` - `Symfony` - `Python` - `Java` - `JavaScript` - `HTML` - `CSS` - `Bootstrap`
