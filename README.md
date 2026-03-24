@@ -13,38 +13,22 @@ Perfil en constante aprendizaje, con especial interés en backend, arquitectura 
 ## 🚀 Tecnologías y herramientas
 
 ### 🧩 Backend
-- PHP
-- Laravel
-- Symfony
-- Python
-- Java
+- PHP - Laravel - Symfony - Python - Java
 
 ### 🔌 APIs & Arquitectura
-- REST APIs
-- JWT
-- Laravel Sanctum
-- ORM
+- REST APIs - JWT - Laravel Sanctum - ORM
 
 ### 🧪 Testing
-- PHPUnit
-- Pytest
+- PHPUnit - Pytest
 
 ### 🗄️ Bases de datos
-- MySQL
-- PostgreSQL
-- SQLite
+- MySQL - PostgreSQL - SQLite
 
 ### ⚙️ DevOps & Tools
-- Docker
-- Git
-- NetBeans
-- Visual Studio Code
+- Docker - Git - NetBeans - Visual Studio Code
 
 ### 🎨 Frontend
-- JavaScript
-- HTML
-- CSS
-- Bootstrap
+- JavaScript - HTML - CSS - Bootstrap
 
 ---
 
