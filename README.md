@@ -15,19 +15,19 @@ Perfil en constante aprendizaje, con especial interés en backend, arquitectura 
 ## 🚀 Tecnologías
 
 **Lenguajes & Frameworks**
-- `PHP` - `Laravel` - `Symfony` - `Python` - `Java` - `JavaScript` - `HTML` - `CSS` - `Bootstrap`
+- `PHP` · `Laravel` · `Symfony` · `Python` · `Java` · `JavaScript` · `HTML` · `CSS` · `Bootstrap`
 
 **APIs & Arquitectura**
-- `REST APIs` - `JWT` - `Laravel Sanctum` - `ORM`
+- `REST APIs` · `JWT` · `Laravel Sanctum` · `ORM`
 
 **Testing**
-- `PHPUnit` - `Pytest`
+- `PHPUnit` · `Pytest`
 
 **Bases de datos**
-- `MySQL` - `PostgreSQL` - `SQLite` - `MongoDB`
+- `MySQL` · `PostgreSQL` · `SQLite` · `MongoDB`
 
 **DevOps & Tools**
-- `Docker` - `Git` - `NetBeans` - `Visual Studio Code`
+- `Docker` · `Git` · `NetBeans` · `Visual Studio Code`
 
 ---
 
