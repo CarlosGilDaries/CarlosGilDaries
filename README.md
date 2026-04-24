@@ -15,7 +15,7 @@ Perfil en constante aprendizaje, con especial interés en **backend**, **arquite
 ## 🚀 Tecnologías
 
 **Lenguajes & Frameworks**
-- `PHP` · `Laravel` · `Symfony` · `Python` · `Java` · `JavaScript` · `HTML` · `CSS` · `Bootstrap`
+- `PHP` · `Laravel` · `Symfony` · `Python` · `FastApi` · `Java` · `JavaScript` · `HTML` · `CSS` · `Bootstrap`
 
 **APIs & Arquitectura**
 - `REST APIs` · `JWT` · `Laravel Sanctum` · `ORM`
