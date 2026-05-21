@@ -21,7 +21,7 @@ Perfil en constante aprendizaje, con especial interés en **backend**, **arquite
 - `REST APIs` · `JWT` · `Laravel Sanctum` · `ORM`
 
 **Testing**
-- `PHPUnit` · `Pytest`
+- `PHPUnit` · `Pytest` · `JUnit`
 
 **Bases de datos**
 - `MySQL` · `PostgreSQL` · `SQLite` · `MongoDB`
